@@ -20,3 +20,4 @@ Katılma adımları (GRASS'a benzer)
 
 3️⃣ Uzantıyı için eklentiyi kurun : [https://chromewebstore.google.com/detail/toggle-extension/bnkekngmddejlfdeefjilpfdhomeomgb?authuser=0&hl=en ](https://chromewebstore.google.com/detail/toggle-extension/bnkekngmddejlfdeefjilpfdhomeomgb?authuser=0&hl=en )
 
+Not : Email confirm yapmayı unutmayın.
